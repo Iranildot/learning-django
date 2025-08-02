@@ -1,4 +1,4 @@
-## INSTALLING DJANGO ONTO UBUNTU
+## INSTALLING DJANGO ON UBUNTU
 
 #### Creating and Activating a Virtual Environment
 
