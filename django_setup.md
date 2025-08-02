@@ -15,5 +15,3 @@ Then you can create your web app running:
 ```
 python3 manage.py startapp APP_NAME
 ```
-
-Now you have 
